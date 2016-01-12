@@ -1,0 +1,20 @@
+{
+  "name": "robotly",
+  "version": "1.0.0",
+  "description": "Personal slack butler",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Koustuv Sinha",
+  "license": "WTFPL",
+  "dependencies": {
+    "async": "^1.5.2",
+    "botkit": "0.0.5",
+    "cron": "^1.1.0",
+    "firebase": "^2.3.2",
+    "lodash": "^3.10.1",
+    "moment": "^2.11.1",
+    "request": "^2.67.0"
+  }
+}
